@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Citylights",
+  "base_artist": "DOBERMAN INFINITY",
+  "createdAt": "2026-03-13T14:28:55.671452Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Citylights",
+      "artist": "Rashid Khan & Usha Uthup",
+      "has_synced": false,
+      "path": "select/01_Citylights_Rashid_Khan_&_Usha_Uthup.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Muskurane : The Essential Mix (Remix By DJ Suketu) (From \"Citylights\")",
+      "artist": "Jeet Gannguli feat. Arijit Singh & DJ Suketu",
+      "has_synced": false,
+      "path": "select/02_Muskurane___The_Essential_Mix_(Remix_By_DJ_Suketu)_(From__Citylights_)_Jeet_Gannguli_feat._Arijit_Singh_&_DJ_Suketu.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Citylights",
+      "artist": "Max Elto",
+      "has_synced": true,
+      "path": "select/03_Citylights_Max_Elto.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Citylights Forever",
+      "artist": "Sophie Hunger",
+      "has_synced": false,
+      "path": "select/04_Citylights_Forever_Sophie_Hunger.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Citylights",
+      "artist": "Majesty Of Revival",
+      "has_synced": false,
+      "path": "select/05_Citylights_Majesty_Of_Revival.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blind (Citylights Remix)",
+      "artist": "The M Machine feat. Luisa Gerstein",
+      "has_synced": true,
+      "path": "select/06_Blind_(Citylights_Remix)_The_M_Machine_feat._Luisa_Gerstein.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Citylights - Title Song",
+      "artist": "Jeet Gannguli feat. Rashid Khan & Usha Uthup",
+      "has_synced": true,
+      "path": "select/07_Citylights_-_Title_Song_Jeet_Gannguli_feat._Rashid_Khan_&_Usha_Uthup.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Citylights - Title Song",
+      "artist": "Jeet Gannguli",
+      "has_synced": true,
+      "path": "select/08_Citylights_-_Title_Song_Jeet_Gannguli.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Citylights (Title Song)",
+      "artist": "Jeet Gannguli, Ustad Rashid Khan, Usha Uthup",
+      "has_synced": true,
+      "path": "select/09_Citylights_(Title_Song)_Jeet_Gannguli,_Ustad_Rashid_Khan,_Usha_Uthup.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Muskurane (From \"Citylights\") - Romantic",
+      "artist": "Jeet Gannguli & Arijit Singh",
+      "has_synced": true,
+      "path": "select/10_Muskurane_(From__Citylights_)_-_Romantic_Jeet_Gannguli_&_Arijit_Singh.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Muskurane [From \"Citylights\"] - Romantic",
+      "artist": "Jeet Gannguli",
+      "has_synced": true,
+      "path": "select/11_Muskurane_[From__Citylights_]_-_Romantic_Jeet_Gannguli.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "CityLights",
+      "artist": "八代刹那",
+      "has_synced": true,
+      "path": "select/12_CityLights_八代刹那.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Citylights (Radio Edit)",
+      "artist": "Max Elto",
+      "has_synced": true,
+      "path": "select/13_Citylights_(Radio_Edit)_Max_Elto.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Citylights (Title Song)",
+      "artist": "Jeet Gannguli",
+      "has_synced": true,
+      "path": "select/14_Citylights_(Title_Song)_Jeet_Gannguli.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Citylights",
+      "artist": "Barney Sku",
+      "has_synced": true,
+      "path": "select/15_Citylights_Barney_Sku.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ek Charraiya (From \"Citylights\")",
+      "artist": "Arijit Singh",
+      "has_synced": true,
+      "path": "select/16_Ek_Charraiya_(From__Citylights_)_Arijit_Singh.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ek Charraiya (From \"citylights\")",
+      "artist": "Jeet Gannguli",
+      "has_synced": true,
+      "path": "select/17_Ek_Charraiya_(From__citylights_)_Jeet_Gannguli.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Muskurane (From \"citylights\") (Romantic)",
+      "artist": "Arijit Singh",
+      "has_synced": true,
+      "path": "select/18_Muskurane_(From__citylights_)_(Romantic)_Arijit_Singh.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Ek Charraiya (From \"citylights\")",
+      "artist": "Arijit Singh",
+      "has_synced": true,
+      "path": "select/19_Ek_Charraiya_(From__citylights_)_Arijit_Singh.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Citylights",
+      "artist": "DOBERMAN INFINITY",
+      "has_synced": false,
+      "path": "select/pl_01_Citylights_DOBERMAN_INFINITY.txt"
+    }
+  ]
+}
